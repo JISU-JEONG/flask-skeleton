@@ -1,0 +1,18 @@
+#cache
+__pycache__/
+
+#vscode
+.vscode/
+
+#cfg
+flask_skeleton.cfg
+
+
+*.log
+*.pid
+
+# migrations folder
+migrations/
+
+# test 
+.coverage
